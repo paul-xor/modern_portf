@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Responsive portfolio",
   "main": "index.js",
-  "homepage": "https://github.com/paul-xor/modern-portf",
+  "homepage": "https://paul-xor.github.io/modern_portf/",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Pasha Smolov",
   "license": "MIT",
